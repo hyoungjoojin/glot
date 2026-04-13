@@ -1,0 +1,13 @@
+[
+  {
+    "path": "assets/characters/player",
+    "files": [
+      {
+        "type": "aseprite",
+        "key": "PLAYER",
+        "textureURL": "player.png",
+        "atlasURL": "player.json"
+      }
+    ]
+  }
+]
